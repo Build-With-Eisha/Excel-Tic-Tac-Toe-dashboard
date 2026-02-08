@@ -21,7 +21,8 @@ An interactive Excel-based Tic-Tac-Toe game with dynamic turn tracking, emoji-en
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/58f96b65-a904-43f6-8a23-13e499b36a20" />
 
 
-<img width="1803" height="890" alt="image" src="https://github.com/user-attachments/assets/dd0d7d14-0e0f-4f9f-abb4-82c710ff4c90" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7b340651-baeb-44b4-8dce-fe0a3bb891b3" />
+
 
 
 ## 🤝 Contributing
